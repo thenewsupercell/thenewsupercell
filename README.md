@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @thenewsupercell
-- 👀 I’m interested in web dev, c++
-- 🌱 I’m currently learning node js
+- 👀 I’m interested in web dev, java
+- 🌱 I’m currently learning ruby
 - 💞️ I’m looking to collaborate on more open source projects
 - 📫 How to reach me cuberlouis@gmail.com email
+
+![Louis's GitHub stats](https://github-readme-stats.vercel.app/api?username=thenewsupercell&show_icons=true&theme=radical)
 
 <!---
 thenewsupercell/thenewsupercell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
