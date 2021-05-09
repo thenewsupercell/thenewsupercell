@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on more open source projects
 - 📫 How to reach me cuberlouis@gmail.com email
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thenewsupercell)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Louis's GitHub stats](https://github-readme-stats.vercel.app/api?username=thenewsupercell&show_icons=true&theme=radical)
 
 <!---
