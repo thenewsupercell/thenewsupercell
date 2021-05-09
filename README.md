@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on more open source projects
 - 📫 How to reach me cuberlouis@gmail.com email
 
+[![My Hero Database](https://github-readme-stats.vercel.app/api/pin/?username=thenewsupercell&repo=my-hero-database)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thenewsupercell)](https://github.com/anuraghazra/github-readme-stats)
 
 [![thenewsupercell's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thenewsupercell)](https://github.com/anuraghazra/github-readme-stats)
