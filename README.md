@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thenewsupercell
-- 👀 I’m interested in web dev, java
+- 👀 I’m interested in c++
 - 🌱 I’m currently learning ruby
 - 💞️ I’m looking to collaborate on more open source projects
 - 📫 How to reach me cuberlouis@gmail.com email
