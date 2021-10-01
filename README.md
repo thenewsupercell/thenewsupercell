@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @thenewsupercell
-- 👀 I’m interested in c++
-- 🌱 I’m currently learning ruby
-- 💞️ I’m looking to collaborate on more open source projects
-- 📫 How to reach me cuberlouis@gmail.com email
+[comment]: <>- 👋 Hi, I’m @thenewsupercell
+[comment]: <>- 👀 I’m interested in c++
+[comment]: <>- 🌱 I’m currently learning ruby
+[comment]: <>- 💞️ I’m looking to collaborate on more open source projects
+[comment]: <>- 📫 How to reach me cuberlouis@gmail.com email
+C++ developer, Java developer, Python developer, Javascript developer
 
 [![My Hero Database](https://github-readme-stats.vercel.app/api/pin/?username=thenewsupercell&repo=my-hero-database&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
