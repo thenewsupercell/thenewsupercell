@@ -3,7 +3,7 @@
 [comment]: <>- 🌱 I’m currently learning ruby
 [comment]: <>- 💞️ I’m looking to collaborate on more open source projects
 [comment]: <>- 📫 How to reach me cuberlouis@gmail.com email
-C++ developer, Java developer, Python developer, Javascript developer
+Knows Python, Javascript, C++
 
 [![My Hero Database](https://github-readme-stats.vercel.app/api/pin/?username=thenewsupercell&repo=my-hero-database&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
